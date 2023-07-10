@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm EN-NAQQACH MOHSSINE<br>A passionate frontend developer from Morocco<br><br>🔭 I’m currently working on Stock management web app<br>🌱 I’m currently learning ReactJs, Express<br>📫 How to reach me mohssineennaqqach0@gmail.com
+Hi 👋, I'm EN-NAQQACH MOHSSINE<br>A passionate frontend developer from Morocco<br><br>🌱 I’m currently learning ReactJs, Express<br>📫 How to reach me mohssineennaqqach0@gmail.com
 
 
 ## 🌐 Socials:
