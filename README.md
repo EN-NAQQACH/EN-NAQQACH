@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm EN-NAQQACH MOHSSINE<br>A passionate frontend developer from Morocco<br><br>🌱 I’m currently learning ReactJs, Express<br>📫 
+Hi 👋, I'm EN-NAQQACH MOHSSINE<br>A passionate frontend developer from Morocco<br><br>🌱 I’m currently learning ReactJs, Express<br>
 
 
 ## 🌐 Socials:
