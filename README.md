@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm a passionate frontend developer with  a keen interest in building interactive and responsive web applications using React.js. I love the process of transforming design concepts into pixel-perfect, user-friendly interfaces.<br><br>- 🔭 I’m working as a front-end developer<br>- 📚 I'm currently learning ReactJs<br>- ⚡ In my free time i'm reading books (Atomic Habits ...)</p>
+<p align="left">Welcome to my GitHub profile! I'm a passionate frontend developer with  a keen interest in building interactive and responsive web applications using React.js. I love the process of transforming design concepts into pixel-perfect, user-friendly interfaces.<br><br>- 🔭 I’m working as a Javascript developer<br>- 📚 I'm currently learning ReactJs<br>- ⚡ In my free time i'm reading books (Atomic Habits ...)</p>
 
 ###
 
